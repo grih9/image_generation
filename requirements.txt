@@ -1,0 +1,13 @@
+denoising_diffusion_pytorch~=1.9.4
+transformers~=4.20.1
+datasets~=2.14.6
+torch~=2.1.0
+einops-exts~=0.0.4
+numpy~=1.26.1
+matplotlib~=3.8.0
+keras~=2.8.0
+tqdm~=4.66.1
+Pillow~=10.1.0
+einops~=0.7.0
+tdqm~=0.0.1
+resize_right~=0.0.2
